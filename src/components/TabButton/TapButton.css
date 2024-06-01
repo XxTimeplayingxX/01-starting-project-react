@@ -1,0 +1,14 @@
+button{
+    background-color: transparent;
+    color: aliceblue;
+    border: none;
+    margin: 0px 0px 20px 0px;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+button:hover{
+    background-color: aquamarine;
+    transition: 0.5s;
+    transform: rotate(30deg);
+}
